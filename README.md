@@ -11,8 +11,8 @@ GET http://localhost:8081/api/customers <- get current customers (name, cust_id,
 
 POST http://localhost:8081/api/customers/save <- add customer 
 
-  * Content-Type: application/json
-  * Body > raw > then enter:
+  * Header tab > Content-Type: application/json
+  * Body tab > raw > then enter:
   
     {
 	  "name": "Jack"
