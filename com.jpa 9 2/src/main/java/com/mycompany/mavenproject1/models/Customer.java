@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1;
+package com.mycompany.mavenproject1.models;
 
 import java.io.Serializable;
 import javax.persistence.Entity;

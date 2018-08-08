@@ -1,4 +1,4 @@
-package com.mycompany.mavenproject1;
+package com.mycompany.mavenproject1.models;
 
 import java.util.ArrayList;
 import java.util.List;
